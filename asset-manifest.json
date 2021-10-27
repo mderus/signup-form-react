@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/signup-form-react/static/css/main.40bcde6b.chunk.css",
-    "main.js": "/signup-form-react/static/js/main.f9ae87ae.chunk.js",
-    "main.js.map": "/signup-form-react/static/js/main.f9ae87ae.chunk.js.map",
+    "main.js": "/signup-form-react/static/js/main.9409367b.chunk.js",
+    "main.js.map": "/signup-form-react/static/js/main.9409367b.chunk.js.map",
     "runtime-main.js": "/signup-form-react/static/js/runtime-main.e54b1f85.js",
     "runtime-main.js.map": "/signup-form-react/static/js/runtime-main.e54b1f85.js.map",
-    "static/js/2.e7f011c8.chunk.js": "/signup-form-react/static/js/2.e7f011c8.chunk.js",
-    "static/js/2.e7f011c8.chunk.js.map": "/signup-form-react/static/js/2.e7f011c8.chunk.js.map",
+    "static/js/2.164b7c6c.chunk.js": "/signup-form-react/static/js/2.164b7c6c.chunk.js",
+    "static/js/2.164b7c6c.chunk.js.map": "/signup-form-react/static/js/2.164b7c6c.chunk.js.map",
     "static/js/3.74406572.chunk.js": "/signup-form-react/static/js/3.74406572.chunk.js",
     "static/js/3.74406572.chunk.js.map": "/signup-form-react/static/js/3.74406572.chunk.js.map",
     "index.html": "/signup-form-react/index.html",
     "static/css/main.40bcde6b.chunk.css.map": "/signup-form-react/static/css/main.40bcde6b.chunk.css.map",
-    "static/js/2.e7f011c8.chunk.js.LICENSE.txt": "/signup-form-react/static/js/2.e7f011c8.chunk.js.LICENSE.txt"
+    "static/js/2.164b7c6c.chunk.js.LICENSE.txt": "/signup-form-react/static/js/2.164b7c6c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e54b1f85.js",
-    "static/js/2.e7f011c8.chunk.js",
+    "static/js/2.164b7c6c.chunk.js",
     "static/css/main.40bcde6b.chunk.css",
-    "static/js/main.f9ae87ae.chunk.js"
+    "static/js/main.9409367b.chunk.js"
   ]
 }
